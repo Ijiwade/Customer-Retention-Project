@@ -25,6 +25,9 @@ Dataset
   * payment_date
   * amount
 
+Tool Used:
+  * SQL
+
 BUSINESS QUESTIONS
 1. Churn detection - Which customers have churned
 ![Q1](images/Q1.png)
@@ -56,4 +59,8 @@ Insight:
    Insights:
      * Most churn occurs after 30 days, with only small portion of users leaving early, indicating that immediate onboarding is not the primary issue
      * This suggests customers initially engage with the product but fail to find sustained value over time, particularly within the Basic plan. 
-   
+
+KEY INSIGHTS
+  1. Churn is concentrated among Basic plan users, with 40% of customers cancelling subscription → This creates a revenue   retention risk at the entry-level tier → improve value proposition and feature offering of the Basic plan. 
+  2. Most churn occurs after the first 30 days rather than immediately → This suggests onboarding is effective but long-term engagement is weak → Focus on improving post-onboarding experience and sustained value delivery. 
+  3. Premium customers generate higher revenue and show stronger retention → This indicates higher perceived value in premium offerings → Encourage upgrades through clearer differentiation and targeted incentives.
