@@ -33,6 +33,7 @@ Insight:
   * Churn occurs early in the customer lifecycle, suggesting onboarding or initial product value may not be strong enough to retain new users
 
 2. Average customer lifetime - How long do customers stay subscribed on average?
+
 ![Q2](images/Q2.png)
   Insight:
     * The average customer lifetime is approximately 40 days, including that most users do not remaain subscribed beyond the first billing cycle. 
