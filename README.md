@@ -35,6 +35,7 @@ Insight:
 2. Average customer lifetime - How long do customers stay subscribed on average?
 
 ![Q2](images/Q2.png)
+  
   Insight:
     * The average customer lifetime is approximately 40 days, including that most users do not remaain subscribed beyond the first billing cycle. 
     * This suggests weak early retention, likely due to insufficient initial value or onboarding experience. 
