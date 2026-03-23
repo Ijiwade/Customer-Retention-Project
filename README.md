@@ -27,30 +27,30 @@ Dataset
 
 BUSINESS QUESTIONS
 1. Churn detection - Which customers have churned
-([Q1])(images/Q1.png)
+![Q1](images/Q1.png)
 Insight:
   * 40% of customers have churned with all users on Basic plan, indicating potential issues with value perception at lower tier
   * Churn occurs early in the customer lifecycle, suggesting onboarding or initial product value may not be strong enough to retain new users
 
 2. Average customer lifetime - How long do customers stay subscribed on average?
-([Q2])(images/Q2.png)
+![Q2](images/Q2.png)
   Insight:
     * The average customer lifetime is approximately 40 days, including that most users do not remaain subscribed beyond the first billing cycle. 
     * This suggests weak early retention, likely due to insufficient initial value or onboarding experience. 
 
 3. Revenue per customer - How much revenue does each customer generate?
-([Q3])(images/Q3.png)
+![Q3](images/Q3.png)
    Insight:
      * Dataset shows, Premium plan customers generate higher revenue per customers, as a result of price differences.
      * However, revenue performance should be observed along with retention since higher pricing does not equate to long-term customer value.
   
 4. Customer value - Which customers generate the most value over their lifetime?
-([Q4])(images/Q4.png)
+![Q4](images/Q4.png)
    Insights:
      * The business is retaining some of its most valuable customers, which is positive sign for recurring revenue stability
   
 5. Early churn behaviour - Do customers who churn tend to leave early after signing up?
-([Q5])(images/Q5.png)
+![Q5](images/Q5.png)
    Insights:
      * Most churn occurs after 30 days, with only small portion of users leaving early, indicating that immediate onboarding is not the primary issue
      * This suggests customers initially engage with the product but fail to find sustained value over time, particularly within the Basic plan. 
